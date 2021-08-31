@@ -9,7 +9,7 @@ import { Tarefa } from 'src/app/models/Tarefa';
 })
 export class InputComponent implements OnInit {
 
-  @Input() lista!:Tarefa;
+  
 
   constructor() { }
 
